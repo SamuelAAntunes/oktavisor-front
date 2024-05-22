@@ -1,7 +1,7 @@
 // apiConfig.js
 const visorConfig = {
     backEnd: {
-        baseUrl: 'http://localhost:3005',
+        baseUrl: 'https://okayback-b7bdfc6cfb46.herokuapp.com/',
     },
     // other configuration properties...
   };
